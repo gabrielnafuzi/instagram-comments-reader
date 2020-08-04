@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "start": "nodemon index.js"
-  },
   "dependencies": {
     "prompt-sync": "^4.2.0",
     "puppeteer": "^5.2.1"
