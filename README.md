@@ -15,7 +15,7 @@ yarn
 ## Usage
 
 ```bash
-node index.js
+node src/index.js
 ```
 
 ![instagram-comments-reader](https://user-images.githubusercontent.com/58908279/88485379-b38bc580-cf4b-11ea-9871-ab2c8b715279.gif)
